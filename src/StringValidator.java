@@ -6,9 +6,9 @@ import java.util.stream.Stream;
 
 public class StringValidator {
 
-    PrintWriter invalidDataFile = new PrintWriter("invalidData.txt");
+    private final PrintWriter invalidDataFile = new PrintWriter("invalidData.txt");
 
-    public StringValidator() throws IOException {
+    private StringValidator() throws IOException {
         try (Stream<String> stream = Files.lines(Paths.get("data.txt"))) {
             stream.forEach(this::parse);
         }

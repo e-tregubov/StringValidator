@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a570b142-cd38-4044-b54f-1965de0b0213" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data.txt" afterDir="false" />
+    <list default="true" id="a570b142-cd38-4044-b54f-1965de0b0213" name="Changes" comment="Code release">
       <change afterPath="$PROJECT_DIR$/src/invalidData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringValidator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +60,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654072507480</updated>
     </task>
+    <task id="LOCAL-00001" summary="Code release">
+      <created>1654162968326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654162968326</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,5 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Code release" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code release" />
   </component>
 </project>
