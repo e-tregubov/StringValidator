@@ -6,6 +6,10 @@ import java.util.stream.Stream;
 
 public class StringValidator {
 
+    public static void main(String[] args) throws IOException {
+        new StringValidator();
+    }
+
     private final PrintWriter invalidDataFile = new PrintWriter("invalidData.txt");
 
     private StringValidator() throws IOException {
@@ -14,10 +18,6 @@ public class StringValidator {
         }
         invalidDataFile.flush();
         invalidDataFile.close();
-    }
-
-    public static void main(String[] args) throws IOException {
-        new StringValidator();
     }
 
     private void parse(String string) {

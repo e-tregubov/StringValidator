@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a570b142-cd38-4044-b54f-1965de0b0213" name="Changes" comment="Private modifiers added" />
+    <list default="true" id="a570b142-cd38-4044-b54f-1965de0b0213" name="Changes" comment="Private modifiers added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/02_CODE/java/01_SCHOOL/regex/regex/src"
+    "last_opened_file_path": "D:/02_CODE/java/01_SCHOOL/regex/regex"
   }
 }]]></component>
   <component name="RunManager">
@@ -83,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654163951971</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Private modifiers added">
+      <created>1654164104836</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654164104836</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
